@@ -6,7 +6,7 @@ public class Car {
     private String color;
 
     public Car() {
-        this(10, 200, 60, "yellow");
+        this(10, 200, 60, "black");
     }
 
     public Car(int year) {
